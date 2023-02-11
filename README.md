@@ -91,7 +91,7 @@ All findings and Insigth generated was compilled into a slide preparation file  
 ## Act Phase 
                          TOP 3 RECOMMENDATION BASED ON FINDINGS
 
-__GIVING DISCOUNT TO ANNUAL MEMBER RIDES LONGER THAN 24HRS ___
+__GIVING DISCOUNT TO ANNUAL MEMBER RIDES LONGER THAN 24HRS__
 
 Giving discount on trips length longer than 24hrs for Annual member will attract casual riders to subscribe for membership plan. since most of their trips duration are longer than 24hrs
 
