@@ -103,7 +103,7 @@ Displaying the benefit of subscribing to Membership plan on bill board
 __WEEKEND BONUS MAIL REMINDER__
 Sending mail notification to casual riders on weekend to stand a chance to win a weekend bonus when subscribing to their  Annual membership plan
 
-                __CONCLUSION__
+                      CONCLUSION
 - All recommendations are made based on insight generated from analysis conducted
 - Additional data like user  Riders’ data (`eg. personal details, address`) will facilitate more targeted marketing strategies
 - Personal detail will help to discover  the typical age of a rider and  How does it will influence bike usage
