@@ -92,6 +92,7 @@ All findings and Insigth generated was compilled into a slide preparation file  
                          TOP 3 RECOMMENDATION BASED ON FINDINGS
 
 __GIVING DISCOUNT TO ANNUAL MEMBER RIDES LONGER THAN 24HRS ___
+
 Giving discount on trips length longer than 24hrs for Annual member will attract casual riders to subscribe for membership plan. since most of their trips duration are longer than 24hrs
 
 __BILL BOARD PLACEMENT__
@@ -101,7 +102,8 @@ Displaying the benefit of subscribing to Membership plan on bill board
 
 __WEEKEND BONUS MAIL REMINDER__
 Sending mail notification to casual riders on weekend to stand a chance to win a weekend bonus when subscribing to their  Annual membership plan
-                __conclusion__
+
+                __CONCLUSION__
 - All recommendations are made based on insight generated from analysis conducted
 - Additional data like user  Riders’ data (`eg. personal details, address`) will facilitate more targeted marketing strategies
 - Personal detail will help to discover  the typical age of a rider and  How does it will influence bike usage
