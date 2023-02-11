@@ -29,7 +29,7 @@ As an Analyst, I will be analyzing the available data to identify trends over th
 ## Note:
 The Case Study was break down into six phases of analysis process
 
-- [Ask]
+- Ask
 - Prepare
 - Process
 - Analyze
