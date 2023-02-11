@@ -29,7 +29,7 @@ As an Analyst, I will be analyzing the available data to identify trends over th
 ## Note:
 The Case Study was break down into six phases of analysis process
 
-- [Ask](#Ask-Phase)
+- [Ask]
 - Prepare
 - Process
 - Analyze
@@ -86,26 +86,31 @@ The __Route__ Column was created from __start_station_name__ and __End_Station_n
 Further Analysis was conducted, All data anomalies were removed 
 All cleaning steps and codes used for Exploratory Data analysis (EDA) was in the file named `Cyclistics_Bike_Share_Analysis` 
 ## Share Phase:
-All findings and Insigth generated was compilled into a slide preparation file  `Cyclistics Bike Share Analysis.pptx
+All findings and Insigth generated was compilled into a slide preparation file  `Cyclistics Bike Share Analysis.pptx`
 
 ## Act Phase 
                          TOP 3 RECOMMENDATION BASED ON FINDINGS
 
 __GIVING DISCOUNT TO ANNUAL MEMBER RIDES LONGER THAN 24HRS ___
 Giving discount on trips length longer than 24hrs for Annual member will attract casual riders to subscribe for membership plan. since most of their trips duration are longer than 24hrs
+
 __BILL BOARD PLACEMENT__
 Placing bill board advert on the most widely used ROUTE by casual riders 
 Streeter Dr & grand Ave, Millennium Park and Michigan and oak St And
 Displaying the benefit of subscribing to Membership plan on bill board 
+
 __WEEKEND BONUS MAIL REMINDER__
 Sending mail notification to casual riders on weekend to stand a chance to win a weekend bonus when subscribing to their  Annual membership plan
                 __conclusion__
-All recommendations are made based on insight generated from analysis conducted
-Additional data like user  Riders’ data (eg. personal details, address) will facilitate more targeted marketing strategies
-Personal detail will help to discover  the typical age of a rider and  How does it will influence bike usage
-Rider usage data – asking the riders pertinent questions (eg, via survey) like
-Why do they use the bikes?  For work, leisure? might help in determining whether casual riders would be able to subscribe to membership plan 
-The Recommendation made may not work for  Casual riders that came for tour since they are not living in Chicago
+- All recommendations are made based on insight generated from analysis conducted
+- Additional data like user  Riders’ data (`eg. personal details, address`) will facilitate more targeted marketing strategies
+- Personal detail will help to discover  the typical age of a rider and  How does it will influence bike usage
+- Rider usage data – asking the riders pertinent questions (eg, via survey) like
+Why do they use the bikes?  For work, leisure? might help in determining whether casual riders would be able to subscribe to membership plan
+
+- The Recommendation made may not work for  Casual riders that came for tour since they are not living in Chicago
+
+thanks!
                
 
 
