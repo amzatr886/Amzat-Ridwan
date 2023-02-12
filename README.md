@@ -29,12 +29,12 @@ As an Analyst, I will be analyzing the available data to identify trends over th
 ## Note:
 The Case Study was break down into six phases of analysis process
 
-- [Ask] (# Ask-Phase)
-- Prepare
-- Process
-- Analyze
-- Share
-- Act 
+- [Ask](# Ask-Phase)
+- [Prepare](# Prepare-Phase)
+- [Process](# Process-Phase)
+- [Analyze](# Analyze-Phase)
+- [Share](# Share-Phase)
+- [Act](# Act-Phase) 
 
 ## Ask Phase 
 __Business Goal__ - The business objectives is to design a marketing strategy aimed at converting casual riders into Annual member rider 
