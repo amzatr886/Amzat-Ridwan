@@ -1,4 +1,4 @@
-# Amzat-Ridwan
+
 
 # Google Data Analytics Capstone Project
  A case study on How cyclistics Bike sharing company Riders use bike differently 
